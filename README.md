@@ -1,8 +1,6 @@
 # lottery_simulation game:
 --------------------------------------------------------
 
-## I am planning to add statistics to this game.
-----------------------------------------------------------
 Hope that if someone who wish to contribute can help me with it. :heart_eyes:
 The help from you will be appreciated.  :thumbsup:
 
